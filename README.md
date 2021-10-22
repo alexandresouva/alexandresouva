@@ -3,9 +3,9 @@
 - 🔭 Atualmente estudo tecnologias voltadas para o desenvolvimento de páginas WEB, como HTML, CSS e Javascript. <br>
 
 <div align="center">
-  <a href="https://github.com/pseudoale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pseudoale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoale&layout=compact&langs_count=7&theme=dark"/> -->
+  <a href="https://github.com/alexandresouva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresouva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresouva&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
   <div style="display: inline_block"><br>
