@@ -1,7 +1,6 @@
 ### Saudações padawan, me chamo Alexandre Silva <hr>
 
-- 🔭 Sou apaixonado por tecnologia e programação. 
-- Atualmente estudo tecnologias voltadas para o desenvolvimento de páginas WEB, como HTML, CSS e Javascript. <br>
+- 🔭 Atualmente estudo tecnologias voltadas para o desenvolvimento de páginas WEB, como HTML, CSS e Javascript. <br>
 
 <div align="center">
   <a href="https://github.com/alexandresouva">
