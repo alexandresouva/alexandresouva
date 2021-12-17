@@ -1,6 +1,7 @@
-### Saudações padawan, me chamo Alexandre Sousa <hr>
+### Saudações padawan, me chamo Alexandre Silva <hr>
 
-- 🔭 Atualmente estudo tecnologias voltadas para o desenvolvimento de páginas WEB, como HTML, CSS e Javascript. <br>
+- 🔭 Sou apaixonado por tecnologia e programação. 
+- Atualmente estudo tecnologias voltadas para o desenvolvimento de páginas WEB, como HTML, CSS e Javascript. <br>
 
 <div align="center">
   <a href="https://github.com/alexandresouva">
