@@ -11,8 +11,8 @@ juntei meus dois sobrenomes, super criativo).
 ```
 <div align="center">
   <a href="https://github.com/alexandresouva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandresouva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresouva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=alexandresouva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresouva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 #### Tecnologias:
