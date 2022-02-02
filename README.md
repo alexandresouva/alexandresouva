@@ -4,7 +4,7 @@
 ```
 Meu nome é Alexandre Sousa Silva, sou estudante de desenvolvimento de sistemas e apaixonado (mesmo) por música.
 Atualmente meu foco está em tecnologias front end, como HTML, CSS e Javascript, porém, pretendo me aprofudar em
-outras stacks futuramente. 
+outras stacks futuramente, em especial, a linguagem Java.
 
 Uma curiosidade: você pode me encontrar em algumas redes sociais - e também no GitHub - como Alexandre Souva (sim, 
 juntei meus dois sobrenomes, super criativo).
