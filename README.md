@@ -5,8 +5,8 @@ Você pode inclusve acompanhar minha evolução como dev <a href="https://github
 
 ```
 Meu nome é Alexandre Sousa Silva, sou estudante de desenvolvimento de sistemas e apaixonado por música.
-Atualmente meu foco está em aprender a linguagem Java e também me desenvolver nas principais tecnologias
-front end, como HTML, CSS e Javascript, stacks que já possuo breve experiência. 
+Atualmente meu foco está em aprender a linguagem Java e também me desenvolver nas principais tecnologias front end, 
+como HTML, CSS e Javascript, stacks que já possuo breve experiência. 
 
 Quero um dia me tornar um desenvolvedor full stack!
 
