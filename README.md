@@ -11,7 +11,7 @@ como HTML, CSS e Javascript, stacks que já possuo breve experiência.
 Quero um dia me tornar um desenvolvedor full stack!
 
 Uma curiosidade: você pode me encontrar em algumas redes sociais - e também no GitHub - como Alexandre Souva (sim, 
-juntei meus dois sobrenomes, super criativo).
+juntei meus dois sobrenomes, super criativo haha).
 
 May the force be with you!
 ```
