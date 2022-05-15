@@ -2,9 +2,11 @@
 
 ### Sobre mim
 ```
-Meu nome é Alexandre Sousa Silva, sou estudante de desenvolvimento de sistemas e apaixonado (mesmo) por música.
+Meu nome é Alexandre Sousa Silva, sou estudante de desenvolvimento de sistemas e apaixonado por música.
 Atualmente meu foco está em aprender a linguagem Java e também me desenvolver nas principais
 tecnologias front end, como HTML, CSS e Javascript, stacks que já possuo breve experiência. 
+
+Quero um dia me tornar um desenvolvedor full stack! Você pode inclusve acompanhar minha evolução <a href="https://github.com/alexandresouva/planejamento-ano1">neste repositório</a>, aqui no Git Hub.
 
 Uma curiosidade: você pode me encontrar em algumas redes sociais - e também no GitHub - como Alexandre Souva (sim, 
 juntei meus dois sobrenomes, super criativo).
