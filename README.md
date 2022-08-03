@@ -1,7 +1,7 @@
 ## Saudações, bem vindo ao meu GitHub
 
 ### Sobre mim
-Você pode inclusve acompanhar minha evolução como dev <a href="https://github.com/alexandresouva/planejamento-ano1">neste repositório</a>, aqui no Git Hub.
+
 
 ```
 Meu nome é Alexandre Sousa Silva, sou estudante de desenvolvimento de sistemas e apaixonado por música.
