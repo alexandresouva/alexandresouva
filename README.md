@@ -4,22 +4,39 @@
 
 ```ts
 const aboutMe = {
-  name: 'Alexandre Sousa',
+  name: 'Alexandre',
   nickname: 'Ale',
-  hoobies: ['Music 🎧', 'Bike 🚲', 'Movies 🍿', 'Reading 📖'],
   profession: 'Full Stack Developer',
-  currentCompany: 'IBM',
-  goal: 'To become a great Tech Lead'
-}
-
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Java'],
-  frameworks: ['Angular', 'Spring Boot', 'Node.JS'],
-  database: {
-    sql: ['PostgreSQL', 'MySQL']
+  goal: 'To become a great Tech Lead',
+  recomendations: {
+    music: 'Charlie Boy - The Lumineers 🎧',
+    movie: 'About time (2013) 🍿',
+    serie: 'Breaking Bad (2008)'
   },
-  cloud: 'AWS Practitioner Certified',
-  others: ['Git', 'GitHub', 'CSS', 'SASS', 'Web acessibility'] 
+}
+```
+```ts
+const techStack = {
+  frontend: {
+    languages: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
+    frameworks: ['Angular'],
+    styling: ['SASS', 'Bootstrap', 'Tailwind CSS'],
+    testing: ['Jasmine', 'Karma', 'Cypress'],
+    others: ['RxJS', 'Accessibility', 'Responsive Design']
+  },
+  backend: {
+    languages: ['Java', 'TypeScript'],
+    frameworks: ['Spring Boot', 'Node.js', 'Nest.js', 'Express'],
+    testing: ['JUnit', 'Mockito', 'Jest']
+  },
+  databases: {
+    relational: ['PostgreSQL', 'MySQL'],
+    nosql: ['MongoDB']
+  },
+  cloudAndTools: {
+    cloud: ['AWS (Certified)'],
+    devops: ['Git', 'GitHub', 'SonarQube'],
+  }
 }
 ```
 
