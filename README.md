@@ -6,7 +6,7 @@
 const aboutMe = {
   name: 'Alexandre',
   nickname: 'Ale',
-  profession: 'Full Stack Developer',
+  profession: 'Full Stack Developer/Front-end Developer',
   goal: 'To become a great Tech Lead',
   recomendations: {
     music: 'Charlie Boy - The Lumineers 🎧',
